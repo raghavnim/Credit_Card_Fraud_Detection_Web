@@ -1,0 +1,5 @@
+Metric,Value
+Total Transactions,284807
+Legitimate Transactions,284315
+Fraudulent Transactions,492
+Number of Features,30
